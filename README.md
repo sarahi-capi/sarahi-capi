@@ -1,7 +1,7 @@
 # Hi there, I'm Sarahi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="45" height="45" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&pause=1000&color=B19CD9&center=true&vCenter=true&width=435&lines=Software+Design+Student+👾;Actuary+%26+Stats+Strategist+📊;3D+Artist+%7C+Blender+Creative+🎨;Data+Science+Explorer+🐍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&pause=300&color=B19CD9&center=true&vCenter=true&width=500&lines=Software+Design+Student+%7C+TH+Aschaffenburg;Actuary+%7C+UNAM;Math,+Probability,+%26+Statistical+Inference;3D+Artist+%7C+Blender" alt="Typing" />
 </p>
 
 ## My Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> 
@@ -71,7 +71,7 @@ I am an **Actuary** (UNAM) currently pursuing a second degree in **Software Desi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=pastel&hide_border=true" alt="Sarahi's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarahi-capi&show_icons=true&theme=pastel&hide_border=true" alt="Sarahi's GitHub Statistics" />
 </p>
 
 
