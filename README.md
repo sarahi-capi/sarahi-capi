@@ -32,6 +32,7 @@ I am an **Actuary** (UNAM) currently pursuing a second degree in **Software Desi
 **3D Art & Creative**
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity-1F2A34?style=for-the-badge&logo=affinity&logoColor=61DAFB)
 
 
 ## Active Projects & Roadmap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
