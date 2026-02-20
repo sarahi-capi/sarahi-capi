@@ -63,15 +63,15 @@ I am an **Actuary** (UNAM) currently pursuing a second degree in **Software Desi
 
 ---
 <br>
-<p align="center">
+<div align="center">
   <i>"Numbers have no way of speaking for themselves. We speak for them."</i><br>
   <b>— Nate Silver</b>
-</p>
+</div>
+<br>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahi-capi&show_icons=true&theme=pastel&hide_border=true" alt="Sarahi's GitHub Statistics" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarahi-capi&show_icons=true&theme=pastel&hide_border=true&bg_color=00000000" alt="Sarahi's GitHub Statistics" />
+</div>
 
