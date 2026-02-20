@@ -68,10 +68,3 @@ I am an **Actuary** (UNAM) currently pursuing a second degree in **Software Desi
   <b>— Nate Silver</b>
 </div>
 <br>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahi-capi&show_icons=true&theme=pastel&hide_border=true&bg_color=00000000" alt="Sarahi's GitHub Statistics" />
-</div>
-
