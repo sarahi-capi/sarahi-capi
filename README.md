@@ -8,8 +8,8 @@
 I am an **Actuary** (UNAM) currently pursuing a second degree in **Software Design** at TH Aschaffenburg. I bridge the gap between mathematical theory and modular software architecture, with a touch of aesthetic vibes.
 
 - 🎓 **B.Sc. Actuarial Science** | National Autonomous University of Mexico (UNAM).
-- 🎓 **B.Sc. Software Design International** | Technical University of Applied Sciences Aschaffenburg (TH-AB).
-- 📈 **Math Focus:** Deep interest in Stochastic Processes, Statistical Inference, and Risk.
+- 🎓 **B.Sc. Software Design International** | Technical University of Applied Sciences Aschaffenburg (TH-Aschaffenburg).
+- 📈 **Math Focus:** Deep interest in Statistical Inference, Probability, Stochastic Processes, and Risk.
 - 🌸 **My Vibe:** 3D art, pastel palettes, and highly organized VS Code setups.
 - 🕹️ **Interests:** Video game asset design, low- and high-poly art and of course, baking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="30" height="30" />.
 
