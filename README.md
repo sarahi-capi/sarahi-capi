@@ -5,10 +5,10 @@
 </p>
 
 ## My Journey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> 
-I am an **Actuary** (UNAM) currently pursuing a second degree in **Software Design** at TH Aschaffenburg. I bridge the gap between mathematical theory and modular software architecture, with a touch of aesthetic vibes.
+I am an **Actuary** currently pursuing a second degree in **Software Design**. I bridge the gap between mathematical theory and modular software architecture, with a touch of aesthetic vibes.
 
-- 🎓 **B.Sc. Actuarial Science** | National Autonomous University of Mexico (UNAM).
-- 🎓 **B.Sc. Software Design International** | Technical University of Applied Sciences Aschaffenburg (TH-Aschaffenburg).
+- 🎓 **B.Sc. Actuarial Science** | [National Autonomous University of Mexico (UNAM)](https://www.fciencias.unam.mx/). 
+- 🎓 **B.Sc. Software Design International** | [Technical University of Applied Sciences Aschaffenburg (TH-Aschaffenburg)](https://www.th-ab.de/).
 - 📈 **Math Focus:** Deep interest in Statistical Inference, Probability, Stochastic Processes, and Risk.
 - 🌸 **My Vibe:** 3D art, pastel palettes, and highly organized VS Code setups.
 - 🕹️ **Interests:** Video game asset design, low- and high-poly art and of course, baking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="30" height="30" />.
