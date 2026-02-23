@@ -49,7 +49,15 @@ I am an **Actuary** (UNAM) currently pursuing a second degree in **Software Desi
 *Taking an indoor plant care dataset and applying **Actuarial Survival Analysis** to predict the lifespan and optimal care thresholds of different plant species using probability models.*
 `#R` `#ActuarialMath` `#StochasticModels`
 
+## Creative Milestones & Portfolios 🏆
+> My 3D work served as the foundation for my successful admission into the **Augmented and Virtual Reality Design (B.A.)** program at **Hochschule Darmstadt**, proving my foundational grasp of spatial logic and rendering before I pivoted to the architecture of **Software Design**.
 
+### [A Christmas Bakery 3D](https://github.com/sarahi-capi/a-christmas-bakery-3d) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="35" height="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="35" height="35" />
+*A complete, stylized 3D environment inspired by a dream. Focused on PBR texturing, clean topology, and cozy atmosphere composition.*
+
+### [Audio-Driven Physics: "Married Life"](https://github.com/sarahi-capi/up-physics-animation) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="35" height="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="Balloon" width="35" height="35" />
+*An experimental 3D animation exploring manual keyframing, physics logic, and timeline synchronization, set to the iconic soundtrack of Pixar's Up.*
+  
 ## Past Experience & Academic Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="40" height="40" />
 *A brief history of my technical and academic background:*
 
