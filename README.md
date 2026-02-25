@@ -12,7 +12,7 @@ I am an **Actuary** currently pursuing a second degree in **Software Design**. I
 - 📈 **Math Focus:** Deep interest in Statistical Inference, Probability, Stochastic Processes, and Risk.
 - 🌸 **My Vibe:** 3D art, pastel palettes, and highly organized VS Code setups.
 - 🌍 **Languages:** Spanish (Native), English (Fluent), German (Currently learning & improving!)
-- 🕹️ **Interests:** Video game asset design, low- and high-poly art and of course, baking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="30" height="30" />.
+- 🕹️ **Interests:** Video game asset design, low- and high-poly art and of course, baking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="20" height="20" />.
 
 ---
 ## My Knowledge (For now, more to come!) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" />
