@@ -38,7 +38,7 @@ I am an **Actuary** currently pursuing a second degree in **Software Design**. I
 
 ## Active Projects & Roadmap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /> **Currently Building: The Studio Ghibli Analysis**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /> **Currently Building:** [The Studio Ghibli Analysis](https://github.com/sarahi-capi/ghibli-data-analysis.git)
 *Working with Kaggle's Studio Ghibli dataset to extract insights. Moving beyond basic Data Analysis to apply statistical modeling and explore variables that drive cinematic success.*
 `#Python` `#DataScience` `#StatisticalModeling`
 
