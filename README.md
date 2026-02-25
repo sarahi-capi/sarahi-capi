@@ -11,6 +11,7 @@ I am an **Actuary** currently pursuing a second degree in **Software Design**. I
 - 🎓 **B.Sc. Software Design International** | [Technical University of Applied Sciences Aschaffenburg (TH-Aschaffenburg)](https://www.th-ab.de/).
 - 📈 **Math Focus:** Deep interest in Statistical Inference, Probability, Stochastic Processes, and Risk.
 - 🌸 **My Vibe:** 3D art, pastel palettes, and highly organized VS Code setups.
+- 🌍 **Languages:** Spanish (Native), English (Fluent), German (Currently learning & improving!)
 - 🕹️ **Interests:** Video game asset design, low- and high-poly art and of course, baking <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="30" height="30" />.
 
 ---
