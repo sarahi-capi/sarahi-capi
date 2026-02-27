@@ -81,7 +81,7 @@ My 3D work served as the foundation for my successful admission into the **Augme
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Christmas%20Tree.png" alt="Christmas Tree" width="35" height="35" /> [A Christmas Bakery 3D](https://github.com/sarahi-capi/a-christmas-bakery-3d) 
 *A complete, stylized 3D environment inspired by a dream. Focused on PBR texturing, clean topology, and cozy atmosphere composition.*
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="Balloon" width="35" height="35" />  ["Married Life" Audio-driven Animation](https://github.com/sarahi-capi/up-physics-animation)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="Balloon" width="35" height="35" />  ["Married Life": Audio-driven Animation](https://github.com/sarahi-capi/up-physics-animation)
 *An experimental 3D animation exploring manual keyframing, physics logic, and timeline synchronization, set to the iconic soundtrack of Pixar's Up.*
 
 --- 
