@@ -39,15 +39,17 @@ I am an **Actuary** currently pursuing a second degree in **Software Design**. I
 
 ## Active Projects & Roadmap <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /> **Currently Building:** [The Studio Ghibli Analysis](https://github.com/sarahi-capi/ghibli-data-analysis.git)
+### Currently Building
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" height="20" /> [The Studio Ghibli Analysis](https://github.com/sarahi-capi/ghibli-data-analysis.git)
 *Working with Kaggle's Studio Ghibli dataset to extract insights. Moving beyond basic Data Analysis to apply statistical modeling and explore variables that drive cinematic success.*
 `#Python` `#DataScience` `#StatisticalModeling`
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lipstick.png" alt="Lipstick" width="25" height="25" /> **Up Next: Sephora Skincare & NLP**
+### Up Next
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lipstick.png" alt="Lipstick" width="20" height="20" /> Sephora Skincare & NLP
 *Planning a deep dive into Sephora product reviews. The goal is to apply **Natural Language Processing (NLP)** for sentiment analysis and **Hypothesis Testing** to see if price actually correlates with user ratings.*
 `#MachineLearning` `#Probability` `#Inference`
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wilted%20Flower.png" alt="Wilted Flower" width="25" height="25" /> **Up Next: House Plant "Survival Analysis"**
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wilted%20Flower.png" alt="Wilted Flower" width="20" height="20" /> House Plant "Survival Analysis"
 *Taking an indoor plant care dataset and applying **Actuarial Survival Analysis** to predict the lifespan and optimal care thresholds of different plant species using probability models.*
 `#R` `#ActuarialMath` `#StochasticModels`
 
@@ -63,7 +65,7 @@ A curated selection of my most technically challenging academic and personal sof
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palms%20Up%20Together%20Light%20Skin%20Tone.png" alt="Palms Up Together Light Skin Tone" width="25" height="25" /> [Nom Nom: Educational Game (Link Coming Soon)](#)
 
-- **Tech Stack:** 
+- **Tech Stack:** Godot, GDScript.
 - **Highlight:** Served as Backend Developer, handling the core mathematical logic, game states, and team code integration.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" /> [Drone Delivery Network (Link Coming Soon)](#)
