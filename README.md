@@ -56,7 +56,7 @@ I am an **Actuary** currently pursuing a second degree in **Software Design**. I
 ## Software Engineering & Architecture <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
 A curated selection of my most technically challenging academic and personal software projects, focusing on advanced logic, optimization, and modular design.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Getting%20Massage%20Light%20Skin%20Tone.png" alt="Woman Getting Massage Light Skin Tone" width="25" height="25" /> [Skincare Routine App (Link Coming Soon)](#)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Getting%20Massage%20Light%20Skin%20Tone.png" alt="Woman Getting Massage Light Skin Tone" width="25" height="25" /> [Skinglow: A Skincare Routine App](https://github.com/sarahi-capi/skinglow-app.git)
 
 - **Tech Stack:** Java, JavaFX.
 - **Highlight:** Explores complex OOP concepts, state management, and robust backend-to-frontend UI integration.
